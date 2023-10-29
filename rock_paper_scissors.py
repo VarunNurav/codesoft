@@ -26,7 +26,7 @@ def main():
     user_score = 0
     computer_score = 0
 
-    print("Welcome to Rock-Paper-Scissors!")
+    print("Welcome to rock-paper-scissors!!!")
 
     while True:
         user_choice = get_user_choice()
